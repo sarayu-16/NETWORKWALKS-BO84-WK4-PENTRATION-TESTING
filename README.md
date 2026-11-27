@@ -16,13 +16,6 @@ The assessment focused on identifying security weaknesses in the website, examin
 
 The project was completed through three major milestones:
 
-1. **M1 – Initial Access and Patient Portal Testing**
-2. **M2 – PDF Hash Extraction and Password Recovery**
-3. **M3 – Directory Enumeration and Information Discovery**
-
-The practical demonstrated how weaknesses in authentication, document protection and server configuration can expose confidential information.
-
----
 
 ## 🎯 Project Objectives
 
@@ -378,20 +371,6 @@ Based on the three milestones, the following security improvements are recommend
 
 Evidence collected during the practical should be organised into separate folders for each milestone.
 
-Suggested evidence structure:
-
-```text
-
-## Evidence Guidelines
-
-- Capture genuine screenshots from the practical.
-- Organise screenshots according to milestones.
-- Use meaningful screenshot filenames.
-- Redact confidential information before public sharing.
-- Never upload actual patient reports, recovered passwords, password hashes, personal records or confidential salary and shareholder details.
-- Keep original evidence in an authorised secure location.
-
----
 
 # 📋 PROJECT OUTCOMES
 
@@ -410,6 +389,27 @@ After completing all three milestones, the practical demonstrated the following:
 ---
 
 # image views
+![Picture 1](https://img.shields.io/badge/Picture-01-blue)
+![Picture 2](https://img.shields.io/badge/Picture-02-blue)
+![Picture 3](https://img.shields.io/badge/Picture-03-blue)
+![Picture 4](https://img.shields.io/badge/Picture-04-blue)
+![Picture 5](https://img.shields.io/badge/Picture-05-blue)
+
+![Picture 6](https://img.shields.io/badge/Picture-06-orange)
+![Picture 7](https://img.shields.io/badge/Picture-07-orange)
+![Picture 8](https://img.shields.io/badge/Picture-08-orange)
+![Picture 9](https://img.shields.io/badge/Picture-09-orange)
+![Picture 10](https://img.shields.io/badge/Picture-10-orange)
+
+![Picture 11](https://img.shields.io/badge/Picture-11-green)
+![Picture 12](https://img.shields.io/badge/Picture-12-green)
+![Picture 13](https://img.shields.io/badge/Picture-13-green)
+![Picture 14](https://img.shields.io/badge/Picture-14-green)
+
+
+
+
+
 
 
 
