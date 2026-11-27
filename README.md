@@ -381,37 +381,6 @@ Evidence collected during the practical should be organised into separate folder
 Suggested evidence structure:
 
 ```text
-PENETRATION-TESTING/
-│
-├── README.md
-│
-├── M1-Initial-Access/
-│   ├── README.md
-│   └── evidence/
-│       ├── login-page.png
-│       ├── authentication-test.png
-│       ├── sqlmap-results.png
-│       └── portal-verification.png
-│
-├── M2-PDF-Password-Testing/
-│   ├── README.md
-│   └── evidence/
-│       ├── pdf-hash-1.png
-│       ├── pdf-hash-2.png
-│       ├── pdf-hash-3.png
-│       └── password-recovery.png
-│
-├── M3-Directory-Enumeration/
-│   ├── README.md
-│   └── evidence/
-│       ├── dirsearch-scan.png
-│       ├── discovered-directories.png
-│       ├── old-patch-evidence.png
-│       └── findings-summary.png
-│
-└── REPORT/
-    └── penetration-testing-report.pdf
-```
 
 ## Evidence Guidelines
 
@@ -441,5 +410,9 @@ After completing all three milestones, the practical demonstrated the following:
 ---
 
 # image views
+
+
+
+
 
 
