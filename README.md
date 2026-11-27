@@ -391,18 +391,31 @@ After completing all three milestones, the practical demonstrated the following:
 # 📸 PROJECT SCREENSHOTS
 
 ![Picture 1](picture1.png)
+
 ![Picture 2](picture2.png)
+
 ![Picture 3](picture3.png)
+
 ![Picture 4](picture4.png)
+
 ![Picture 5](picture5.png)
+
 ![Picture 6](picture6.png)
+
 ![Picture 7](picture7.png)
+
 ![Picture 8](picture8.png)
+
 ![Picture 9](picture9.png)
+
 ![Picture 10](picture10.png)
+
 ![Picture 11](picture11.png)
+
 ![Picture 12](picture12.png)
+
 ![Picture 13](picture13.png)
+
 ![Picture 14](picture14.png)
 
 
