@@ -440,47 +440,6 @@ After completing all three milestones, the practical demonstrated the following:
 
 ---
 
-# 🎓 SKILLS LEARNED
+# image views
 
-Through this practical, the following cybersecurity concepts and skills were explored:
 
-- Black-box penetration testing.
-- Web application security assessment.
-- Authentication testing.
-- SQL Injection assessment.
-- Directory enumeration.
-- HTTP response code analysis.
-- PDF password protection.
-- Hash extraction and password recovery.
-- Vulnerability identification.
-- Risk assessment.
-- Security documentation.
-- Remediation and reporting.
-
----
-
-# 📝 CONCLUSION
-
-This penetration testing project provided practical experience in examining the security of a web application and identifying weaknesses that could lead to the exposure of confidential information.
-
-Across the three milestones, the assessment demonstrated an SQL Injection-related authentication weakness, evaluated PDF password protection and identified exposed website resources.
-
-The practical highlighted the importance of secure authentication, parameterised database queries, strong document encryption, appropriate access controls and regular security assessments.
-
-The findings also demonstrated why organisations must protect patient records and internal organisational information from unauthorised access.
-
-Implementing the recommended security measures would help reduce these risks and improve the overall security of the web application.
-
----
-
-# ⚠️ DISCLAIMER
-
-This project is intended for educational purposes and authorised security testing only.
-
-All penetration testing activities must be performed only on systems for which explicit permission has been granted.
-
-Do not attempt to access, retrieve, modify or disclose confidential information belonging to individuals or organisations without authorisation.
-
-Never publish patient information, passwords, password hashes, salary details or shareholder records on GitHub.
-
----
