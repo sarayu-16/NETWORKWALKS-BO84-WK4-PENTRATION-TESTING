@@ -388,24 +388,27 @@ After completing all three milestones, the practical demonstrated the following:
 
 ---
 
-# image views
-![Picture 1](https://img.shields.io/badge/Picture-01-blue)
-![Picture 2](https://img.shields.io/badge/Picture-02-blue)
-![Picture 3](https://img.shields.io/badge/Picture-03-blue)
-![Picture 4](https://img.shields.io/badge/Picture-04-blue)
-![Picture 5](https://img.shields.io/badge/Picture-05-blue)
+# 📸 PROJECT SCREENSHOTS
 
-![Picture 6](https://img.shields.io/badge/Picture-06-orange)
-![Picture 7](https://img.shields.io/badge/Picture-07-orange)
-![Picture 8](https://img.shields.io/badge/Picture-08-orange)
-![Picture 9](https://img.shields.io/badge/Picture-09-orange)
-![Picture 10](https://img.shields.io/badge/Picture-10-orange)
 
-![Picture 11](https://img.shields.io/badge/Picture-11-green)
-![Picture 12](https://img.shields.io/badge/Picture-12-green)
-![Picture 13](https://img.shields.io/badge/Picture-13-green)
-![Picture 14](https://img.shields.io/badge/Picture-14-green)
+<img src="images/picture1.png" width="800">
+<img src="images/picture2.png" width="800">
+<img src="images/picture3.png" width="800">
+<img src="images/picture4.png" width="800">
+<img src="images/picture5.png" width="800">
 
+
+<img src="images/picture6.png" width="800">
+<img src="images/picture7.png" width="800">
+<img src="images/picture8.png" width="800">
+<img src="images/picture9.png" width="800">
+<img src="images/picture10.png" width="800">
+
+
+<img src="images/picture11.png" width="800">
+<img src="images/picture12.png" width="800">
+<img src="images/picture13.png" width="800">
+<img src="images/picture14.png" width="800">
 
 
 
