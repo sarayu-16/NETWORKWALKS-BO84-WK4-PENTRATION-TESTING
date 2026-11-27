@@ -390,25 +390,33 @@ After completing all three milestones, the practical demonstrated the following:
 
 # 📸 PROJECT SCREENSHOTS
 
+![Picture 1](images/picture1.png)
 
-<img src="images/picture1.png" width="800">
-<img src="images/picture2.png" width="800">
-<img src="images/picture3.png" width="800">
-<img src="images/picture4.png" width="800">
-<img src="images/picture5.png" width="800">
+![Picture 2](images/picture2.png)
 
+![Picture 3](images/picture3.png)
 
-<img src="images/picture6.png" width="800">
-<img src="images/picture7.png" width="800">
-<img src="images/picture8.png" width="800">
-<img src="images/picture9.png" width="800">
-<img src="images/picture10.png" width="800">
+![Picture 4](images/picture4.png)
 
+![Picture 5](images/picture5.png)
 
-<img src="images/picture11.png" width="800">
-<img src="images/picture12.png" width="800">
-<img src="images/picture13.png" width="800">
-<img src="images/picture14.png" width="800">
+![Picture 6](images/picture6.png)
+
+![Picture 7](images/picture7.png)
+
+![Picture 8](images/picture8.png)
+
+![Picture 9](images/picture9.png)
+
+![Picture 10](images/picture10.png)
+
+![Picture 11](images/picture11.png)
+
+![Picture 12](images/picture12.png)
+
+![Picture 13](images/picture13.png)
+
+![Picture 14](images/picture14.png)
 
 
 
